@@ -1,5 +1,17 @@
 <!--pages/question/question.wxml-->
-<scroll-view>
-dsfdsfds
+<scroll-view class='global_view'>
+ <view class='question_title'>
+ 1、1+1=?
+ </view>
+ <view class='question_body'>
+ <view class='question_sec'>A、1</view>
+<view class='question_sec'> B、2</view>
+<view class='question_sec'>C、3</view>
+<view class='question_sec'>D、4</view>
+ 
+
+ 
+ 
+ </view>
 </scroll-view>
  

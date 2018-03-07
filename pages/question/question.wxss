@@ -1,1 +1,14 @@
 /* pages/question/question.wxss */
+.question_title{
+  text-align: left
+}
+.question_body{
+  margin-top: 10px;
+  /* background-color: yellow; */
+}
+.question_sec{
+  margin-top: 5px;
+}
+.global_view{
+  margin-left: 40px;
+}
