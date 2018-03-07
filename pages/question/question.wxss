@@ -11,4 +11,7 @@
 }
 .global_view{
   margin-left: 40px;
+  background-image:url('http://pic35.photophoto.cn/20150618/0017029558455238_b.jpg');
+  background-position-x: 100%;
+  background-position-y: 100%;
 }
